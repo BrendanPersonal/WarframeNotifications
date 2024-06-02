@@ -1,5 +1,4 @@
 # Warframe Alerts for discord chat bot
-# Written by Brendan Klostermann
 
 #bot.py
 import os
